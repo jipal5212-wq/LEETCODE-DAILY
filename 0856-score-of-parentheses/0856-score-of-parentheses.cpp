@@ -1,5 +1,6 @@
 class Solution {
 public:
+//wasted my 8 pages to get this simple solution :)
     int scoreOfParentheses(string s) {
         stack<int>store;
         store.push(0);
