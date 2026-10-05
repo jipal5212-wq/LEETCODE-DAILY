@@ -24,4 +24,12 @@
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0856-score-of-parentheses) |
+## Array
+|  |
+| ------- |
+| [1760-minimum-limit-of-balls-in-a-bag](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
+## Binary Search
+|  |
+| ------- |
+| [1760-minimum-limit-of-balls-in-a-bag](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 <!---LeetCode Topics End-->
