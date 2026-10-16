@@ -46,6 +46,7 @@
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Binary Search
 |  |
@@ -73,6 +74,7 @@
 |  |
 | ------- |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -81,4 +83,12 @@
 |  |
 | ------- |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/3723-maximize-sum-of-squares-of-digits) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
