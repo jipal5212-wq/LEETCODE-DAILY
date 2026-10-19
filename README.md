@@ -14,6 +14,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0118-pascals-triangle) |
 | [0509-fibonacci-number](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0678-valid-parenthesis-string) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -46,6 +47,7 @@
 ## Array
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0118-pascals-triangle) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/2089-find-target-indices-after-sorting-array) |
