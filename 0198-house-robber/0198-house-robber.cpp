@@ -1,3 +1,4 @@
+//memoization 
 class Solution {
     vector<int> dp;
     int solve(vector<int>&nums, int i) {
@@ -11,7 +12,6 @@ class Solution {
         int b = solve(nums, i + 1);
         int ans = max(nums[i]+a, b);
         dp[i]=ans;
-
         return ans;
     }
 public:
