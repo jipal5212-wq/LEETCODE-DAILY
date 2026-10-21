@@ -12,14 +12,20 @@
  */
 class Solution {
 public:
-    bool helper(TreeNode* root, TreeNode* min, TreeNode* max) {
-        if (root == NULL) {
-            return true;
-        }if (min != NULL && root->val <= min->val) {
-            return false;}
-        if (max != NULL && root->val >= max->val) {
-            return false;    }
-        return helper(root->left, min, root) && helper(root->right, root, max);
+    bool helper(TreeNode* root, TreeNode* checkLeft, TreeNode* checkRight) {
+        if (root == NULL) return true;
+
+        if (checkLeft != NULL && root->val <= checkLeft->val)
+            return false;
+
+        if (checkRight != NULL && root->val >= checkRight->val)
+            return false;
+
+        return helper(root->left, checkLeft, root) &&
+               helper(root->right, root, checkRight);
     }
-    bool isValidBST(TreeNode* root) { return helper(root, NULL, NULL); }
+
+    bool isValidBST(TreeNode* root) {
+        return helper(root, NULL, NULL);
+    }
 };
