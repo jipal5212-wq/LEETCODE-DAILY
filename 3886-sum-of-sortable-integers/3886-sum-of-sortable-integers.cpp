@@ -1,36 +1,84 @@
 class Solution {
 public:
+    void computeLPS(vector<int>& pattern, vector<int>& lps) {
+        int M = pattern.size();
+        int len = 0;
+        lps[0] = 0;
+        int i = 1;
+        while (i < M) {
+            if (pattern[i] == pattern[len]) {
+                len++;
+                lps[i] = len;
+                i++;
+            } else {
+                if (len != 0) {
+                    len = lps[len - 1];
+                } else {
+                    lps[i] = 0;
+                    i++;
+                }
+            }
+        }
+    }
+    bool search(vector<int>& pat, vector<int>& txt) {
+        int N = txt.size();
+        int M = pat.size();
+
+        if (M == 0)
+            return true;
+        if (M > N)
+            return false;
+
+        vector<int> lps(M, 0);
+        computeLPS(pat, lps);
+        int i = 0, j = 0;
+        while (i < N) {
+            if (pat[j] == txt[i]) {
+                i++;
+                j++;
+            }
+            if (j == M) {
+                return true;
+            } else if (i < N && pat[j] != txt[i]) {
+                if (j != 0) {
+                    j = lps[j - 1];
+                } else {
+                    i++;
+                }
+            }
+        }
+        return false;
+    }
+    bool isRotation(vector<int>& vec1, vector<int>& vec2) {
+        vector<int> txt = vec2;
+        txt.insert(txt.end(), vec2.begin(), vec2.end());
+        return search(vec1, txt);
+    }
     int sortableIntegers(vector<int>& nums) {
         int n = nums.size();
-        vector<int> desc(n, 0), premax(n), sufmin(n);
-        for (int i = 1; i < n; i++)
-            desc[i] = desc[i - 1] + (nums[i - 1] > nums[i]);
-        premax[0] = nums[0];
-        for (int i = 1; i < n; i++)
-            premax[i] = max(premax[i - 1], nums[i]);
-        sufmin[n - 1] = nums[n - 1];
-        for (int i = n - 2; i >= 0; i--)
-            sufmin[i] = min(sufmin[i + 1], nums[i]);
-        vector<bool> cut(n, true);
-        for (int m = 1; m < n; m++)
-            cut[m] = premax[m - 1] <= sufmin[m];
-        auto rotatable = [&](int l, int r) {
-            return desc[r] - desc[l] + (nums[r] > nums[l]) <= 1;
-        };
-        int ans = 0;
+        vector<int> sorted = nums;
+        sort(sorted.begin(), sorted.end());
+
+        int result = 0;
         for (int k = 1; k <= n; k++) {
             if (n % k != 0)
                 continue;
+
             bool valid = true;
-            for (int l = 0; l < n; l += k) {
-                if (!cut[l] || !rotatable(l, l + k - 1)) {
+            for (int start = 0; start < n; start += k) {
+                vector<int> vec1(nums.begin() + start,
+                                 nums.begin() + start + k);
+                vector<int> vec2(sorted.begin() + start,
+                                 sorted.begin() + start + k);
+                if (!isRotation(vec1, vec2)) {
                     valid = false;
                     break;
                 }
             }
-            if (valid)
-                ans += k;
+            if (valid) {
+                result += k;
+            }
         }
-        return ans;
+        return result;
     }
 };
