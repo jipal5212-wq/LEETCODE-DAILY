@@ -14,21 +14,18 @@
 
 class Solution {
 public:
-    bool helper(TreeNode* root, TreeNode* min, TreeNode* max) {
+    bool check(TreeNode* root, long long low, long long high) {
         if (root == NULL) return true;
-        
-        if (min != NULL && root->val <= min->val)
+
+        if (root->val <= low || root->val >= high)
             return false;
 
-        if (max != NULL && root->val >= max->val)
-            return false;
-
-        return helper(root->left, min, root) &&
-               helper(root->right, root, max);
+        return check(root->left, low, root->val) &&
+               check(root->right, root->val, high);
     }
 
     bool isValidBST(TreeNode* root) {
-        return helper(root, NULL, NULL);
+        return check(root, LLONG_MIN, LLONG_MAX);
     }
 };
 
