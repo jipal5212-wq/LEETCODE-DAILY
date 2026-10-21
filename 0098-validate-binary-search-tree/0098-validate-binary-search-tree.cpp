@@ -10,22 +10,16 @@
  * right(right) {}
  * };
  */
-
-
 class Solution {
 public:
-    bool check(TreeNode* root, long long low, long long high) {
-        if (root == NULL) return true;
-
-        if (root->val <= low || root->val >= high)
-            return false;
-
-        return check(root->left, low, root->val) &&
-               check(root->right, root->val, high);
+    bool helper(TreeNode* root, TreeNode* min, TreeNode* max) {
+        if (root == NULL) {
+            return true;
+        }if (min != NULL && root->val <= min->val) {
+            return false;}
+        if (max != NULL && root->val >= max->val) {
+            return false;    }
+        return helper(root->left, min, root) && helper(root->right, root, max);
     }
-
-    bool isValidBST(TreeNode* root) {
-        return check(root, LLONG_MIN, LLONG_MAX);
-    }
+    bool isValidBST(TreeNode* root) { return helper(root, NULL, NULL); }
 };
-
