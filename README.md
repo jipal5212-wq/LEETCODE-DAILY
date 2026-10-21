@@ -75,6 +75,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0100-same-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0301-remove-invalid-parentheses) |
 ## Sorting
 |  |
@@ -126,6 +127,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0100-same-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Union-Find
 |  |
@@ -151,6 +153,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0100-same-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Fermat's Little Theorem
 |  |
@@ -169,4 +172,5 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
