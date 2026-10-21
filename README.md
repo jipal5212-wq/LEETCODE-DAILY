@@ -125,6 +125,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0098-validate-binary-search-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Union-Find
 |  |
@@ -133,6 +134,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0098-validate-binary-search-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Memoization
 |  |
@@ -148,6 +150,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0098-validate-binary-search-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Fermat's Little Theorem
 |  |
@@ -165,4 +168,5 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
