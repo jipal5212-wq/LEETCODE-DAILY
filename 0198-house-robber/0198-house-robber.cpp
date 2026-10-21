@@ -1,6 +1,6 @@
 class Solution {
     vector<int> dp;
-    int solve(vector<int>& nums, int i) {
+    int solve(vector<int>nums, int i) {
         if (i >= nums.size()) {
             return 0;
         }
@@ -14,7 +14,6 @@ class Solution {
 
         return ans;
     }
-
 public:
     int rob(vector<int>& nums) {
         int n= nums.size();
