@@ -12,7 +12,7 @@ class Solution {
             return dp[n][t];
         }
         int ans = 0;
-        for (int i = 1; i <= k; i++) {
+        for (int i = 1; i <= k && i<=t; i++) {
             int a = solve(n - 1, k, t - i, dp);
             ans = (ans + a) % 1000000007;
             dp[n][t] = ans;
