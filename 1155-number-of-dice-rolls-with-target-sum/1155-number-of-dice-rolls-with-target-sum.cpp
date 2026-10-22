@@ -1,11 +1,10 @@
 // including dp now
 class Solution {
-
     int solve(int n, int k, int t, vector<vector<int>>& dp) {
         if (n == 0 && t == 0) {
             return 1;
         }
-        if (n <= 0 || t <0 || t>n*k) {
+        if (n <= 0 || t <0) {
             return 0;
         }
         if (dp[n][t] != -1) {
@@ -19,7 +18,6 @@ class Solution {
         dp[n][t] = ans;
         return ans;
     }
-
 public:
     int numRollsToTarget(int n, int k, int target) {
         vector<vector<int>> dp(n + 1, vector<int>(target + 1, -1));
