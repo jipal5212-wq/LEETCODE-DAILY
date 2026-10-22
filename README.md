@@ -19,6 +19,7 @@
 | [0198-house-robber](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0678-valid-parenthesis-string) |
+| [1155-number-of-dice-rolls-with-target-sum](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Stack
 |  |
