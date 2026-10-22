@@ -4,7 +4,7 @@ class Solution {
         if (n == 0 && t == 0) {
             return 1;
         }
-        if (n <= 0 || t <0) {
+        if (n <= 0 || t <=0|| t>n*k) {
             return 0;
         }
         if (dp[n][t] != -1) {
