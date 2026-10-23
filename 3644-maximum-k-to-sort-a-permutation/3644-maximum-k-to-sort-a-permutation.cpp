@@ -8,9 +8,7 @@ public:
                 ans &= nums[i];
             }
         }
-        if (ans == -1) {
-            return 0;
-        }
-        return ans;
+
+        return ans == -1 ? 0 : ans;
     }
 };
