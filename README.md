@@ -56,6 +56,7 @@
 | [0118-pascals-triangle](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0198-house-robber) |
 | [0983-minimum-cost-for-tickets](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0983-minimum-cost-for-tickets) |
+| [1254-number-of-closed-islands](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -83,6 +84,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0100-same-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0301-remove-invalid-parentheses) |
+| [1254-number-of-closed-islands](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/1254-number-of-closed-islands) |
 ## Sorting
 |  |
 | ------- |
@@ -140,6 +142,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
@@ -181,4 +184,9 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0100-same-tree) |
+| [1254-number-of-closed-islands](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/1254-number-of-closed-islands) |
+## Matrix
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
