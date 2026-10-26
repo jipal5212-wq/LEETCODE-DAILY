@@ -1,36 +1,34 @@
 class Solution {
-public:
-    int n, m;
 
-    void dfs(int i, int j, vector<vector<int>>& grid) {
-        if (i < 0 || j < 0 || i >= n || j >= m || grid[i][j] == 1)
-            return;
-        grid[i][j] = 1;
-        dfs(i + 1, j, grid);
-        dfs(i - 1, j, grid);
-        dfs(i, j + 1, grid);
-        dfs(i, j - 1, grid);
+    bool dfs(vector<vector<int>>& grid, int r, int c) {
+        if (r >= grid.size() || r < 0 || c >= grid[0].size() || c < 0) {
+            return false;
+        }
+        if (grid[r][c] == 1) {
+            return true;
+        }
+        grid[r][c] = 1;
+        bool ld = dfs(grid, r, c - 1);
+        bool rd = dfs(grid, r, c + 1);
+        bool ud = dfs(grid, r - 1, c);
+        bool dd = dfs(grid, r + 1, c);
+
+        return (ld && rd && ud && dd);
     }
+public:
     int closedIsland(vector<vector<int>>& grid) {
-        n = grid.size();
-        m = grid[0].size();
-        for (int i = 0; i < n; i++) {
-            dfs(i, 0, grid);
-            dfs(i, m - 1, grid);
-        }
-        for (int j = 0; j < m; j++) {
-            dfs(0, j, grid);
-            dfs(n - 1, j, grid);
-        }
-        int cnt = 0;
-        for (int i = 1; i < n - 1; i++) {
-            for (int j = 1; j < m - 1; j++) {
+        int count = 0;
+        int m = grid.size();
+        int n = grid[0].size();
+        for (int i= 0; i < m; i++) {
+            for (int j = 0; j < n; j++) {
                 if (grid[i][j] == 0) {
-                    cnt++;
-                    dfs(i, j, grid);
+                    if (dfs(grid, i, j) == true) {
+                        count++;
+                    }
                 }
             }
         }
-        return cnt;
+        return count;
     }
 };
