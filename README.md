@@ -9,6 +9,7 @@
 | [0856-score-of-parentheses](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/1021-remove-outermost-parentheses) |
+| [1143-longest-common-subsequence](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/1143-longest-common-subsequence) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2409-count-days-spent-together](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/2409-count-days-spent-together) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/3863-minimum-operations-to-sort-a-string) |
@@ -21,6 +22,7 @@
 | [0509-fibonacci-number](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0678-valid-parenthesis-string) |
 | [0983-minimum-cost-for-tickets](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0983-minimum-cost-for-tickets) |
+| [1143-longest-common-subsequence](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/1143-longest-common-subsequence) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Stack
@@ -194,4 +196,8 @@
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
