@@ -19,6 +19,7 @@
 | [0070-climbing-stairs](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0518-coin-change-ii) |
 | [0678-valid-parenthesis-string](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0678-valid-parenthesis-string) |
@@ -58,6 +59,7 @@
 | ------- |
 | [0118-pascals-triangle](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0518-coin-change-ii) |
 | [0983-minimum-cost-for-tickets](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0983-minimum-cost-for-tickets) |
 | [1254-number-of-closed-islands](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/1254-number-of-closed-islands) |
@@ -89,6 +91,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0100-same-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0301-remove-invalid-parentheses) |
+| [0322-coin-change](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0322-coin-change) |
 | [1254-number-of-closed-islands](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Sorting
@@ -205,9 +208,11 @@
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
