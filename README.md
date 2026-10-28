@@ -59,6 +59,7 @@
 | ------- |
 | [0118-pascals-triangle](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0518-coin-change-ii) |
 | [0983-minimum-cost-for-tickets](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0983-minimum-cost-for-tickets) |
@@ -90,6 +91,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0100-same-tree) |
+| [0200-number-of-islands](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0200-number-of-islands) |
 | [0301-remove-invalid-parentheses](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0322-coin-change) |
 | [1254-number-of-closed-islands](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/1254-number-of-closed-islands) |
@@ -151,6 +153,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0200-number-of-islands) |
 | [1254-number-of-closed-islands](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -194,11 +197,13 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0100-same-tree) |
+| [0200-number-of-islands](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0200-number-of-islands) |
 | [1254-number-of-closed-islands](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0200-number-of-islands) |
 | [1254-number-of-closed-islands](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Longest Common Subsequence
