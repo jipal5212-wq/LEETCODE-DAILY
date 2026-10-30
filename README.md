@@ -100,6 +100,7 @@
 | [0207-course-schedule](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0207-course-schedule) |
 | [0301-remove-invalid-parentheses](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0322-coin-change) |
+| [0684-redundant-connection](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0684-redundant-connection) |
 | [1254-number-of-closed-islands](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Sorting
@@ -167,6 +168,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0200-number-of-islands) |
+| [0684-redundant-connection](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0684-redundant-connection) |
 | [1254-number-of-closed-islands](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -212,6 +214,7 @@
 | [0100-same-tree](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0100-same-tree) |
 | [0200-number-of-islands](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0207-course-schedule) |
+| [0684-redundant-connection](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0684-redundant-connection) |
 | [1254-number-of-closed-islands](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -240,6 +243,7 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0207-course-schedule) |
+| [0684-redundant-connection](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0684-redundant-connection) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Topological Sort
 |  |
