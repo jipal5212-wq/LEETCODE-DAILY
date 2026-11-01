@@ -1,5 +1,6 @@
 class Solution {
 public:
+//not a simple question
     long long minimumMaxValue(int n, int index, int value) {
         int p = value;
         for (int i = 2; 1LL * i * i <= value; i++) {
