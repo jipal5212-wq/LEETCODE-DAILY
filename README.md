@@ -25,6 +25,7 @@
 | [0509-fibonacci-number](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0518-coin-change-ii) |
 | [0678-valid-parenthesis-string](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0678-valid-parenthesis-string) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0983-minimum-cost-for-tickets](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0983-minimum-cost-for-tickets) |
 | [1143-longest-common-subsequence](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/1143-longest-common-subsequence) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/1155-number-of-dice-rolls-with-target-sum) |
@@ -105,6 +106,7 @@
 | [0301-remove-invalid-parentheses](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0322-coin-change) |
 | [0684-redundant-connection](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0684-redundant-connection) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1254-number-of-closed-islands](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Sorting
@@ -119,6 +121,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0787-cheapest-flights-within-k-stops) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Hash Table
@@ -222,6 +225,7 @@
 | [0200-number-of-islands](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0207-course-schedule) |
 | [0684-redundant-connection](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0684-redundant-connection) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1254-number-of-closed-islands](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -252,6 +256,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0207-course-schedule) |
 | [0684-redundant-connection](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0684-redundant-connection) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0787-cheapest-flights-within-k-stops) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Topological Sort
 |  |
@@ -264,5 +269,6 @@
 ## Shortest Path
 |  |
 | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0787-cheapest-flights-within-k-stops) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 <!---LeetCode Topics End-->
