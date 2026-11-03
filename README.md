@@ -36,6 +36,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0094-binary-tree-inorder-traversal) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -172,6 +173,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0100-same-tree) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Union-Find
@@ -224,6 +226,7 @@
 | [0100-same-tree](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0100-same-tree) |
 | [0200-number-of-islands](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0207-course-schedule) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0684-redundant-connection](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0684-redundant-connection) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1254-number-of-closed-islands](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/1254-number-of-closed-islands) |
