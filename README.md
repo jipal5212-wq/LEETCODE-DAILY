@@ -18,6 +18,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0198-house-robber) |
@@ -46,6 +47,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0055-jump-game) |
 | [0678-valid-parenthesis-string](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -64,6 +66,7 @@
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0200-number-of-islands) |
