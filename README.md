@@ -73,6 +73,7 @@
 | [0518-coin-change-ii](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0518-coin-change-ii) |
 | [0983-minimum-cost-for-tickets](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0983-minimum-cost-for-tickets) |
 | [1254-number-of-closed-islands](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/1254-number-of-closed-islands) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -94,6 +95,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -117,6 +119,7 @@
 |  |
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -285,4 +288,8 @@
 |  |
 | ------- |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+## Two Pointers
+|  |
+| ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/1385-find-the-distance-value-between-two-arrays) |
 <!---LeetCode Topics End-->
