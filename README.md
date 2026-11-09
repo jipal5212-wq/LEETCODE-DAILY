@@ -76,6 +76,7 @@
 | [0518-coin-change-ii](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0518-coin-change-ii) |
 | [0983-minimum-cost-for-tickets](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0983-minimum-cost-for-tickets) |
 | [1254-number-of-closed-islands](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
@@ -119,6 +120,7 @@
 | [0684-redundant-connection](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0684-redundant-connection) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1254-number-of-closed-islands](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Sorting
 |  |
@@ -200,6 +202,7 @@
 | [0200-number-of-islands](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0684-redundant-connection) |
 | [1254-number-of-closed-islands](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Search Tree
@@ -248,6 +251,7 @@
 | [0684-redundant-connection](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0684-redundant-connection) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1254-number-of-closed-islands](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Matrix
@@ -255,6 +259,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0200-number-of-islands) |
 | [1254-number-of-closed-islands](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -301,4 +306,8 @@
 |  |
 | ------- |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/1385-find-the-distance-value-between-two-arrays) |
+## Counting
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
