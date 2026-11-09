@@ -14,7 +14,6 @@ public:
                         if (grid[i][k] == 1)
                             row++;
                     }
-
                     for (int k = 0; k < m; k++) {
                         if (grid[k][j] == 1)
                             col++;
