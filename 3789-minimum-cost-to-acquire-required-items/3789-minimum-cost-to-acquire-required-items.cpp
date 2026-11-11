@@ -8,7 +8,7 @@ public:
         long long ans2 = go * costBoth;
         long long ans3 = co * costBoth;
         if (need1 > need2) {
-            ans3 +=  1ll * (need1 - need2) * cost1;
+            ans3 +=  1LL * (need1 - need2) * cost1;
         } else {
             ans3 += 1LL * (need2 - need1) * cost2;
         }
