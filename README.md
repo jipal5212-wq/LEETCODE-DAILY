@@ -88,6 +88,7 @@
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1882-process-tasks-using-servers](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/1882-process-tasks-using-servers) |
+| [1920-build-array-from-permutation](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/1920-build-array-from-permutation) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2747-count-zero-request-servers](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/2747-count-zero-request-servers) |
@@ -331,6 +332,7 @@
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [1920-build-array-from-permutation](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/1920-build-array-from-permutation) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Ordered Set
 |  |
