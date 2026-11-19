@@ -7,9 +7,8 @@ public:
             return 0;
         }
         int diff = min({
-            nums[n-1] - nums[2],  // Changin 2 smallest
-            nums[n-2] - nums[1],  // Changing 1 smallest + 1 largest
-            nums[n-3] - nums[0]   // Changing 2 largest
+            nums[n-1] - nums[2],  nums[n-2] - nums[1],  
+            nums[n-3] - nums[0]  
         });
 
         return diff;
