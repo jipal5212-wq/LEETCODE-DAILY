@@ -57,6 +57,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -92,6 +93,7 @@
 | [1920-build-array-from-permutation](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/1920-build-array-from-permutation) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/2747-count-zero-request-servers) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -142,6 +144,7 @@
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/2747-count-zero-request-servers) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/3727-maximum-alternating-sum-of-squares) |
