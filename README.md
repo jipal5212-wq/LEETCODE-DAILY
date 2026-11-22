@@ -11,6 +11,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/1021-remove-outermost-parentheses) |
 | [1143-longest-common-subsequence](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/1143-longest-common-subsequence) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/2409-count-days-spent-together) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/jipal5212-wq/LEETCODE-DAILY/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
